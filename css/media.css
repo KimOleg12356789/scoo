@@ -1,0 +1,622 @@
+
+
+
+
+
+@media screen and (max-width: 1450px) {
+    .about__block2 a {
+        padding: 28px 37px 28px 47px;
+        color: #000;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 33px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        border: 2px solid transparent;
+        border-color: #000;
+    }
+
+    .slider__wrap {
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        left: 0;
+        padding: 0 0 0 30px;
+        height: 100%;
+    }
+    
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1290px) {
+    .about__block2 a {
+        padding: 28px 37px 28px 47px;
+        color: #000;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 29px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        border: 2px solid transparent;
+        border-color: #000;
+    }
+
+    .about__block {
+        margin: 0 40px 0 0;
+        width: 40%;
+    }
+
+    .about__block2 {
+        width: 60%;
+    }
+
+    .qual__wrap div {
+        padding: 17px 58px 18px 58px;
+        color: #fff;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 30px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        text-transform: uppercase;
+        margin: 0 25px 50px 25px;
+    }
+
+    .slider__wrap p {
+        margin: 0 0 49px 0;
+        width: 407px;
+    }
+
+    .menu__top li {
+        margin: 0 20px 0 20px;
+    }
+
+    .work__inner {
+        margin: 0 0 37px 0;
+    }
+
+    .buy__wrap  {
+        margin: 0 -10px 0 80px -10px;
+    }
+
+    .buy__wrap a {
+        margin: 0 10px;
+    }
+
+    
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1025px) {
+
+    .burger {
+        display: block !important;
+    }
+
+    .menu__buger {
+        display: block !important;
+    }
+
+    .menu__top li {
+        margin: 0 40px 20px 0px;
+    }
+
+    .social__bottom {
+        display: block !important;
+    }
+    .slider__wrap p {
+        margin: 0 0 35px 0;
+        width: 407px;
+        font-size: 23px;
+    }
+    .slider__wrap h1 {
+        color: #ffffff;
+        text-align: left;
+        font-weight: 900;
+        font-size: 36px;
+        text-transform: uppercase;
+        position: relative;
+        margin: 0 0 30px 0;
+    }
+
+    .slider__title a {
+        color: #fff;
+        font-weight: 700;
+        font-size: 22px;
+        text-transform: uppercase;
+        display: block;
+        text-decoration: none;
+        margin: 0 0 0 0;
+    }
+
+    .about__block2 a {
+        padding: 18px 27px 18px 27px;
+        color: #000;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        border: 2px solid transparent;
+        border-color: #000;
+    }
+
+    .title a {
+        color: #A9A9A9;
+        font-weight: 700;
+        font-size: 21px;
+        text-transform: uppercase;
+        display: block;
+        text-decoration: none;
+        margin: 0 0 0 50px;
+    }
+
+    h2 {
+        margin: 0;
+        font-size: 32px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .menu__top {
+        display: none;
+    }
+
+    .qual__wrap div {
+        padding: 17px 58px 18px 58px;
+        color: #fff;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 27px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        text-transform: uppercase;
+        margin: 0 15px 50px 15px;
+    }
+
+    .about__link {
+        margin: 0 23px 35px 23px !important;
+    }
+
+    .social__top {
+        display: none;
+        margin: 40px 0 0 0;
+    }
+
+    .slick-dots li {
+        position: relative;
+        display: inline-block;
+        width: 70px !important;
+        height: 20px;
+        margin: 0 10px 0 10px !important; 
+        padding: 0;
+        background: url(../img/sl-dots.svg) 0 0 no-repeat;
+        cursor: pointer;
+    }
+
+    .work__wrap  {
+        flex-wrap: wrap;
+    }
+
+    .work__block {
+        width: 100%;
+        padding: 0 10px 0 0;
+    }
+
+    .work__block2 {
+        width: 100%;
+        padding: 0 0 0 0px;
+    }
+
+    .work__block {
+        width: 100%;
+        padding: 0 0px 0 0;
+        display: flex;
+    }
+
+    .work__inner {
+        width: 50%;
+        padding: 0 10px 0 0;
+    }
+
+    .work__inner2 {
+        width: 50%;
+        padding: 0 0 0 10px;
+    }
+
+    .work__block2 img {
+        margin: 0 0 30px 0;
+        width: 100%;
+    }
+    
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 950px) {
+
+    .slider__top  {
+        position: relative;
+  
+    }
+
+    .slider__wrap {
+ 
+    }
+
+    .slider__title {
+        position: relative;
+        z-index: 1111;
+    }
+
+    .slider__wrap:before {
+        position: absolute;
+        top:0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        content: '';
+        background: rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .about__wrap {
+        display: block;
+        align-items: center;
+        margin: 0 0 55px 0;
+    }
+
+    .about__block {
+        margin: 0 0px 40px 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .about__block img {
+        width: 100%;
+    }
+
+    .about__block2 {
+        width: 100%;
+    }
+
+    .about__block2 a {
+        padding: 18px 27px 18px 27px;
+        color: #000;
+        background: none;
+        width: 100%;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        border: 2px solid transparent;
+        border-color: #000;
+    }
+
+    .catalog__block {
+        width: 50%;
+        padding: 0 10px 0 10px;
+    }
+
+    .qual__wrap div {
+        padding: 17px 33px 18px 33px;
+        color: #fff;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 25px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        text-transform: uppercase;
+        margin: 0 15px 30px 15px;
+    }
+
+    .slider__img img {
+        display: none;
+        
+    }
+
+    .slider__img2 img {
+        display: none;
+    }
+
+    .slider__img3 img {
+        display: none;
+    }
+
+    .slider__img img + img {
+        display: block;
+        
+    }
+
+    .slider__img2 img + img {
+        display: block;
+    }
+
+    .slider__img3 img + img {
+        display: block;
+    }
+
+
+    .slider__img {
+        background: #E0932B;
+    }
+
+    .slider__img2 {
+        background: #B273C3;
+    }
+
+    .slider__img3 {
+        background: #E64274;
+    }
+
+    
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 700px) {
+    .sl__bt_wrap {
+        background: #EEEEEE;
+        padding: 30px 30px 30px 30px;
+    }
+
+    .slick-prev {
+        left: -15px !important;
+        background: url(../img/arrow-left.svg) 0 0 no-repeat;
+    }
+
+    .slick-next {
+        background: url(../img/arrow-right.svg) 0 0 no-repeat;
+        right: -15px !important;
+    }
+
+    .ft__wrap  {
+        display: block;
+    }
+
+    .ft__logo_wrap {
+        margin: 0 0 30px 0;
+    }
+
+    .copyright {
+        font-size: 20px;
+        line-height: 37px;
+        margin: 0 0 0px 20px;
+        font-weight: 700;
+    }
+
+    .ft__logo_wrap  a img {
+        width: 80px;
+    }
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+
+    .slider__wrap h1 {
+        color: #ffffff;
+        text-align: left;
+        font-weight: 900;
+        font-size: 30px;
+        text-transform: uppercase;
+        position: relative;
+        margin: 0 0 25px 0;
+    }
+
+    .slider__wrap p {
+        margin: 0 0 22px 0;
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .slider__title a {
+        color: #fff;
+        font-weight: 700;
+        font-size: 20px;
+        text-transform: uppercase;
+        display: block;
+        text-decoration: none;
+        margin: 0 0 0 0;
+    }
+
+    .slick-dots li {
+        position: relative;
+        display: inline-block;
+        width: 60px !important;
+        height: 6px !important;
+        margin: 0 20px 0 20px;
+        padding: 0;
+        background: url(../img/sl-dots.svg) 0 0 no-repeat;
+        cursor: pointer;
+    }
+
+    .slider__wrap {
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        display: flex;
+        align-items: self-start;
+        width: 100%;
+        left: 0;
+        padding: 40px 0 0 30px;
+        height: 100%;
+    }
+
+    
+
+    .about__link_wrap {
+        display: block;
+    }
+
+    .catalog__block {
+        width: 100%;
+        padding: 0 10px 0 10px;
+    }
+
+    .work__block {
+        width: 100%;
+        padding: 0 0px 0 0;
+        display: block;
+    }
+
+
+    .work__inner2 {
+        width: 100%;
+        padding: 0 0 0 0px;
+    }
+
+    .work__inner {
+        width: 100%;
+        padding: 0 0px 0 0;
+    }
+
+    .buy__wrap {
+        margin: 0 -10px 60px -10px !important;
+        display: block;
+    }
+
+    .buy__wrap a {
+        margin: 0 10px 20px 10px;
+        display: block;
+    }
+
+    .title {
+        margin: 0 0 50px 0;
+        display: block;
+    }
+
+    .title a {
+        color: #A9A9A9;
+        font-weight: 700;
+        font-size: 19px;
+        text-transform: uppercase;
+        display: block;
+        text-decoration: none;
+        margin: 12px 0 0 0px;
+    }
+
+    .about__block2 a {
+        padding: 16px 20px 16px 20px;
+        color: #000;
+        background: none;
+        width: 100%;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 700;
+        margin: 0 0px 20px 0px;
+        border: 2px solid transparent;
+        border-color: #000;
+    }
+
+    .about__media_wrap {
+        margin: 0 0px;
+    }
+
+    .qual__wrap div {
+        padding: 13px 53px 13px 52px;
+        color: #fff;
+        background: none;
+        display: block;
+        text-align: center;
+        border-radius: 50px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0 23px 0px 23px;
+        text-transform: uppercase;
+        margin: 0 10px 20px 10px;
+    }
+
+    .catalog__block {
+        width: 100%;
+        padding: 0 10px 20px 10px;
+        margin: 0 0 20px 0;
+    }
+
+    .work__block2 {
+        width: 100%;
+        padding: 30px 0 0 0px;
+    }
+
+    .about__link {
+        margin: 0 0px 20px 0px !important;
+    }
+
+    .logo img {
+        width: 140px;
+        margin: 0 0 0 -21px;
+    }
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+    .sl__bt_wrap p {
+        font-size: 18px;
+    }
+
+    .media__wrap {
+        margin: 0 0 17px 0;
+    }
+
+    .menu__top li a {
+        font-size: 22px;
+        text-transform: uppercase;
+        font-weight: 700;
+        text-decoration: none;
+    }
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
