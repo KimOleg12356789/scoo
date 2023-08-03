@@ -223,10 +223,6 @@
         margin: 0 0 0 -42px;
     }
 
-    .social__bottom {
-        margin: 0 !important;
-    }
-
     .slick-dots li {
         position: relative;
         display: inline-block;
@@ -539,14 +535,14 @@
     }
 
     .copyright {
-        font-size: 20px;
-        line-height: 37px;
+        font-size: 19px;
+        line-height: 36px;
         margin: 0 0 0px 20px;
         font-weight: 700;
     }
 
     .ft__logo_wrap  a img {
-        width: 80px;
+        width: 75px;
     }
 }
 
